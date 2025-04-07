@@ -49,7 +49,7 @@ bash my_sysinfo.sh # Windows Powershell with WSL
 
 ## ==============================================
 
-    System Information
+System Information
 
 1) Hardware Information
 2) Network Information
