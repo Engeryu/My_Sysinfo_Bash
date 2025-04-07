@@ -38,10 +38,11 @@ A simple, interactive Bash script to display essential system information across
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your_username/system-info-bash.git
-cd system-info-bash
-chmod +x system_info.sh
-./system_info.sh
+git clone git@github.com:Engeryu/My_Sysinfo_Bash.git # or https://github.com/Engeryu/My_Sysinfo_Bash.git if SSH-key not configured 
+cd My_Sysinfo_Bash
+chmod +x my_sysinfo.sh
+./my_sysinfo.sh # Linux Terminal
+bash my_sysinfo.sh # Windows Powershell with WSL
 ```
 
 ## 🖥️ Main menu style
