@@ -46,16 +46,16 @@ chmod +x system_info.sh
 
 ## 🖥️ Main menu style
 
-=======================================
-           System Information
-=============================
+## ==============================================
+
+    System Information
 
 1) Hardware Information
 2) Network Information
 3) Process Management
 4) Exit
 
-## ============================================
+## ==============================================
 
 ## 🤝 Contributions
 
